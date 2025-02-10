@@ -1,1 +1,12 @@
+Bug report #1
+Summary: Slide 4 is duplicated by slide 5 in the Git Presentation
+Steps to reproduce:
+1. Open Git Presentation
+2. Proceed to slide 4
+3. Compare slide 4 with slide 5
 
+Actual Result: Slide 5 is the same as Slide 4
+
+Expected Result: No slides are duplicated in the presentation
+
+Note: Slides 16 is also duplicated by slide 17
